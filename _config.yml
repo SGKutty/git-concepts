@@ -8,7 +8,7 @@ title:               Git Concepts
 tagline:             'Git Concepts'
 description:         'Walking through some of the git concepts'
 url:                 https://git-scm.com/
-baseurl:             '/git-concepts'
+baseurl:             '/git-walk'
 paginate:            5
 
 # About/contact
@@ -18,7 +18,7 @@ author:
 # Github
 
 github:
-  repo:             https://github.com/SGKutty/git-concepts
+  repo:             https://github.com/g-kutty/git-walk
 
 # Custom vars
 version:             1.0.0
