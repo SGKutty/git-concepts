@@ -1,0 +1,24 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Git Concepts
+tagline:             'Git Concepts'
+description:         'Walking through some of the git concepts'
+url:                 https://git-scm.com/
+baseurl:             '/git-concepts'
+paginate:            5
+
+# About/contact
+author:
+  name:              Georgekutty Joyes
+
+# Github
+
+github:
+  repo:             https://github.com/SGKutty/git-concepts
+
+# Custom vars
+version:             1.0.0
